@@ -1,0 +1,7 @@
+------------------------------------------------------
+Source: https://github.com/TeamNavyPier/NeshtoShantavo
+------------------------------------------------------
+Demo site: https://neshto.shantavo.com
+------------------------------------------------------
+demo user: demo@shantavo.com
+password: demo123

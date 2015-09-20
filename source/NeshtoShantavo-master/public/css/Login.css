@@ -1,0 +1,29 @@
+#remember {
+	float: left;
+	margin-top: 10px;
+}
+
+#content > section > form > p > input[type="submit"]:nth-child(3) {
+	float: right;
+	width: 100px;
+}
+
+#content > section > form > p > label {
+	float: left;
+	margin-top: 8px;
+	margin-left: 5px;
+}
+
+#content > section > form {
+	height: 180px;
+}
+
+#content > section > form > p:nth-child(3) > label {
+	float: left;
+	margin-top: 12px;
+}
+
+#content > section > form > p:nth-child(3) > a {
+	float: right;
+	margin-top: 5px;
+}
